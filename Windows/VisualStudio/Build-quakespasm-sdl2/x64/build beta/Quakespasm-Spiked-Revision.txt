@@ -1,0 +1,4 @@
+Git URL:      https://github.com/Shpoike/Quakespasm.git
+Git Revision: c885ec2a8cabb9dba35a9e58bb1ecc88b2e9d266
+Git Date:     2024-03-01
+Compile Date: Fri Mar  1 08:15:48 UTC 2024

@@ -1,0 +1,339 @@
+﻿cl : linha de comando  warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+  SDL_win32_main.c
+  zone.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  world.c
+  (compilando o arquivo fonte '../../Quake/zone.c')
+  
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/world.c')
+  
+  wad.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/wad.c')
+  
+  view.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/view.c')
+  
+  sys_sdl_win.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/sys_sdl_win.c')
+  
+  sv_user.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/sv_user.c')
+  
+  sv_phys.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/sv_phys.c')
+  
+  sv_move.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/sv_move.c')
+  
+  sv_main.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/sv_main.c')
+  
+  strlcpy.c
+  strlcat.c
+  snd_xmp.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_xmp.c')
+  
+  snd_wave.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_wave.c')
+  
+  snd_vorbis.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_vorbis.c')
+  
+  snd_voip.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_voip.c')
+  
+  snd_umx.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_umx.c')
+  
+  snd_sdl.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_sdl.c')
+  
+  snd_opus.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_opus.c')
+  
+  snd_mp3tag.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_mp3tag.c')
+  
+  Gerando Código...
+  Compilando...
+  snd_mp3.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_mp3.c')
+  
+  snd_modplug.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_modplug.c')
+  
+  snd_mix.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_mix.c')
+  
+  snd_mikmod.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_mikmod.c')
+  
+  snd_mem.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_mem.c')
+  
+  snd_flac.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_flac.c')
+  
+  snd_dma.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_dma.c')
+  
+  snd_codec.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/snd_codec.c')
+  
+  sbar.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/sbar.c')
+  
+  r_world.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/r_world.c')
+  
+  r_sprite.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/r_sprite.c')
+  
+  r_part_fte.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/r_part_fte.c')
+  
+  r_part.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/r_part.c')
+  
+  r_brush.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/r_brush.c')
+  
+  r_alias.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/r_alias.c')
+  
+  pr_ext.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/pr_ext.c')
+  
+  pr_exec.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/pr_exec.c')
+  
+  pr_edict.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/pr_edict.c')
+  
+  pr_cmds.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/pr_cmds.c')
+  
+  pmovetst.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/pmovetst.c')
+  
+  Gerando Código...
+  Compilando...
+  pmove.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/pmove.c')
+  
+  pl_win.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/pl_win.c')
+  
+  net_wipx.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/net_wipx.c')
+  
+  net_wins.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/net_wins.c')
+  
+  net_win.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/net_win.c')
+  
+  net_main.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/net_main.c')
+  
+  net_loop.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/net_loop.c')
+  
+  net_dgrm.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/net_dgrm.c')
+  
+  menu.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/menu.c')
+  
+  mdfour.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\mdfour.c(169,15): warning C4267: '+=': conversão de 'size_t' para 'unsigned int', possível perda de dados
+  mathlib.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/mathlib.c')
+  
+  main_sdl.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/main_sdl.c')
+  
+  keys.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/keys.c')
+  
+  in_sdl.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/in_sdl.c')
+  
+  image.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/image.c')
+  
+  host_cmd.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/host_cmd.c')
+  
+  host.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/host.c')
+  
+  gl_warp.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_warp.c')
+  
+  gl_vidsdl.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_vidsdl.c')
+  
+  gl_texmgr.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_texmgr.c')
+  
+  Gerando Código...
+  Compilando...
+  gl_sky.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_sky.c')
+  
+  gl_screen.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_screen.c')
+  
+  gl_rmisc.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_rmisc.c')
+  
+  gl_rmain.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_rmain.c')
+  
+  gl_rlight.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_rlight.c')
+  
+  gl_refrag.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_refrag.c')
+  
+  gl_model.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_model.c')
+  
+  gl_mesh.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_mesh.c')
+  
+  gl_fog.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_fog.c')
+  
+  gl_draw.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/gl_draw.c')
+  
+  fs_zip.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/fs_zip.c')
+  
+  cvar.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cvar.c')
+  
+  crc.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/crc.c')
+  
+  console.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/console.c')
+  
+  common.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/common.c')
+  
+  cmd.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cmd.c')
+  
+  cl_tent.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cl_tent.c')
+  
+  cl_parse.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cl_parse.c')
+  
+  cl_main.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cl_main.c')
+  
+  cl_input.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cl_input.c')
+  
+  Gerando Código...
+  Compilando...
+  cl_demo.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cl_demo.c')
+  
+  chase.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/chase.c')
+  
+  cfgfile.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cfgfile.c')
+  
+  cd_sdl.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/cd_sdl.c')
+  
+  bgmusic.c
+C:\Users\joeve\source\repos\Quakespasm\Quake\quakedef.h(307,10): error C1083: Não é possível abrir arquivo incluir: 'SDL_opengl_glext.h': No such file or directory
+  (compilando o arquivo fonte '../../Quake/bgmusic.c')
+  
+  Gerando Código...

@@ -1,0 +1,1 @@
+C:\Users\joeve\source\repos\Quakespasm\Windows\VisualStudio\Build-quakespasm-sdl2\x64\Debug\quakespasm-sdl2.exe

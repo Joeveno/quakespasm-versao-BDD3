@@ -1,0 +1,19 @@
+﻿  Gerando código
+  3 of 2557 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    122 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  quakespasm-sdl2.vcxproj -> C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\Build-quakespasm-sdl2\x64\Release\quakespasm-sdl2.exe
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libFLAC-8.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libmad-0.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libmikmod-3.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libmpg123-0.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libogg-0.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libopus-0.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libopusfile-0.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libvorbis-0.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libvorbisfile-3.dll
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\codecs\x64\libxmp.dll
+         10 arquivo(s) copiado(s).
+  C:\Users\joeve\Source\Repos\Quakespasm\Windows\VisualStudio\\..\SDL2\lib64\SDL2.dll
+          1 arquivo(s) copiado(s).
